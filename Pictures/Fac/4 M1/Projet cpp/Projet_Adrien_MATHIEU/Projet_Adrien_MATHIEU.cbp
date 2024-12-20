@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet_Adrien_MATHIEU" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet_Adrien_MATHIEU" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet_Adrien_MATHIEU" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/CFonction.h" />
+		<Unit filename="include/Composee.h" />
+		<Unit filename="include/Difference.h" />
+		<Unit filename="include/Fonction.h" />
+		<Unit filename="include/Interface.h" />
+		<Unit filename="include/Polynome.h" />
+		<Unit filename="include/Produit.h" />
+		<Unit filename="include/Puissance.h" />
+		<Unit filename="include/Quotient.h" />
+		<Unit filename="include/Somme.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="script.txt" />
+		<Unit filename="src/CFonction.cpp" />
+		<Unit filename="src/Composee.cpp" />
+		<Unit filename="src/Difference.cpp" />
+		<Unit filename="src/Fonction.cpp" />
+		<Unit filename="src/Interface.cpp" />
+		<Unit filename="src/Polynome.cpp" />
+		<Unit filename="src/Produit.cpp" />
+		<Unit filename="src/Puissance.cpp" />
+		<Unit filename="src/Quotient.cpp" />
+		<Unit filename="src/Somme.cpp" />
+		<Unit filename="t1.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

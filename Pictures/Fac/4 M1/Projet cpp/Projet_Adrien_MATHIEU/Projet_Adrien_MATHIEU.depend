@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1732806267 source:z:\cpp\projet_adrien_mathieu\main.cpp
+	<iostream>
+	"Fonction.h"
+	"Polynome.h"
+	"CFonction.h"
+
+1732806222 source:z:\cpp\projet_adrien_mathieu\src\polynome.cpp
+	"Polynome.h"
+
+1732805241 z:\cpp\projet_adrien_mathieu\include\polynome.h
+	<Fonction.h>
+	<vector>
+
+1732805241 z:\cpp\projet_adrien_mathieu\include\fonction.h
+	<string>
+	<ostream>
+	<sstream>
+
+1732800170 source:z:\cpp\projet_adrien_mathieu\src\fonction.cpp
+	"Fonction.h"
+
+1732807156 source:z:\cpp\projet_adrien_mathieu\src\cfonction.cpp
+	"CFonction.h"
+
+1732807132 z:\cpp\projet_adrien_mathieu\include\cfonction.h
+	<Fonction.h>
+	<cmath>
+
+1733864738 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\fonction.cpp
+	"Fonction.h"
+
+1734210143 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\fonction.h
+	<string>
+	<ostream>
+	<sstream>
+	<typeinfo>
+
+1734211200 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\polynome.cpp
+	"Polynome.h"
+	<cmath>
+
+1734213807 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\polynome.h
+	<Fonction.h>
+	<vector>
+
+1734213095 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\main.cpp
+	"Interface.h"
+
+1733873513 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\cfonction.h
+	<Fonction.h>
+	<cmath>
+
+1734215095 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\somme.cpp
+	"Somme.h"
+
+1734213455 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\somme.h
+	<Fonction.h>
+	<Polynome.h>
+	<Polynome.h>
+
+1734205123 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\cfonction.cpp
+	"CFonction.h"
+	<typeinfo>
+
+1734214347 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\difference.cpp
+	"Difference.h"
+
+1734214357 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\difference.h
+	<Fonction.h>
+	<Polynome.h>
+
+1734214529 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\produit.cpp
+	"Produit.h"
+	"Somme.h"
+
+1733857651 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\produit.h
+	<Fonction.h>
+
+1733861727 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\quotient.cpp
+	"Quotient.h"
+	"Difference.h"
+	"Produit.h"
+	"Puissance.h"
+
+1733857438 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\quotient.h
+	<Fonction.h>
+
+1733864763 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\composee.cpp
+	"Composee.h"
+	"Produit.h"
+
+1733858143 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\composee.h
+	<Fonction.h>
+
+1734216163 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\puissance.cpp
+	"Puissance.h"
+	"Polynome.h"
+	"Produit.h"
+
+1733860988 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\puissance.h
+	<Fonction.h>
+	<cmath>
+
+1734218069 c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\include\interface.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	"Fonction.h"
+	"Polynome.h"
+	"CFonction.h"
+	"Somme.h"
+	"Difference.h"
+	"Produit.h"
+	"Quotient.h"
+	"Puissance.h"
+	"Composee.h"
+
+1734217904 source:c:\users\adrie\pictures\fac\4 m1\projet_adrien_mathieu\src\interface.cpp
+	"Interface.h"
+
+1734213095 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\main.cpp
+	"Interface.h"
+
+1734218069 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\interface.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	"Fonction.h"
+	"Polynome.h"
+	"CFonction.h"
+	"Somme.h"
+	"Difference.h"
+	"Produit.h"
+	"Quotient.h"
+	"Puissance.h"
+	"Composee.h"
+
+1734210143 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\fonction.h
+	<string>
+	<ostream>
+	<sstream>
+	<typeinfo>
+
+1734213807 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\polynome.h
+	<Fonction.h>
+	<vector>
+
+1733873513 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\cfonction.h
+	<Fonction.h>
+	<cmath>
+
+1734213455 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\somme.h
+	<Fonction.h>
+	<Polynome.h>
+	<Polynome.h>
+
+1734214357 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\difference.h
+	<Fonction.h>
+	<Polynome.h>
+
+1733857651 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\produit.h
+	<Fonction.h>
+
+1733857438 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\quotient.h
+	<Fonction.h>
+
+1733860988 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\puissance.h
+	<Fonction.h>
+	<cmath>
+
+1733858143 c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\include\composee.h
+	<Fonction.h>
+
+1734205123 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\cfonction.cpp
+	"CFonction.h"
+	<typeinfo>
+
+1734704812 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\composee.cpp
+	"Composee.h"
+	"Produit.h"
+
+1734214347 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\difference.cpp
+	"Difference.h"
+
+1733864738 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\fonction.cpp
+	"Fonction.h"
+
+1734211200 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\polynome.cpp
+	"Polynome.h"
+	<cmath>
+
+1734214529 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\produit.cpp
+	"Produit.h"
+	"Somme.h"
+
+1734216163 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\puissance.cpp
+	"Puissance.h"
+	"Polynome.h"
+	"Produit.h"
+
+1733861727 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\quotient.cpp
+	"Quotient.h"
+	"Difference.h"
+	"Produit.h"
+	"Puissance.h"
+
+1734215095 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\somme.cpp
+	"Somme.h"
+
+1734706438 source:c:\users\adrie\pictures\fac\4 m1\projet cpp\projet_adrien_mathieu\src\interface.cpp
+	"Interface.h"
+

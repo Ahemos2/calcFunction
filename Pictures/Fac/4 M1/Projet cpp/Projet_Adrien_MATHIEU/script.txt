@@ -1,0 +1,50 @@
+#2
+/ Tester les commandes de base
+/ help
+help poly
+help eval
+help liste
+help non_existent_command
+
+/ Tester la creation de polynomes
+poly1 = poly 1
+poly2 = poly 4 5 -2
+poly3 = poly 0 1 0 -4
+
+/ Tester l'affichage des fonctions creees
+poly1
+poly2
+poly3
+liste
+
+/ Tester les operations sur les fonctions
+somme poly1 poly2
+produit poly1 poly3
+difference poly3 poly2
+quotient poly2 poly1
+
+/ Tester l'evaluation des fonctions
+eval poly1 2
+eval poly2 -1
+eval poly3 0
+
+/ Tester la derivation
+d1 = derive poly1
+d2 = derive poly2
+d3 = derive poly3
+d1
+d2
+d3
+
+/ Tester les compositions
+comp1 = composee poly1 poly2
+comp2 = composee d1 poly3
+comp1
+comp2
+
+/ Tester les erreurs et cas limites
+poly poly_invalid
+eval unknown_function 3
+derive unknown_function
+composee invalid_comp poly1 unknown_function
+invalid_command

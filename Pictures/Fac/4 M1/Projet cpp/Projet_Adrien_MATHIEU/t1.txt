@@ -1,0 +1,8 @@
+/ Instrucition pour afficher les commandes
+#0
+/ ceci est un commentaire
+y1 = poly 2 1
+y2 = sin
+s = difference y1 y2
+s = derive s
+liste
